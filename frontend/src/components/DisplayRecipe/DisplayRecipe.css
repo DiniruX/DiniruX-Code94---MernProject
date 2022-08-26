@@ -1,0 +1,17 @@
+th {
+    text-align: left;
+    width:300px;
+}
+
+td {
+    text-align: left;
+}
+
+tr {
+    height: 40px;
+}
+
+.nav-link {
+    margin-top:8px;
+}
+

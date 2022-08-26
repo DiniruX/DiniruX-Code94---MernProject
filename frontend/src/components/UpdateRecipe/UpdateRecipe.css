@@ -1,0 +1,13 @@
+.card {
+    background-color:rgb(250, 198, 129);
+    text-align: left;
+}
+
+label {
+    font-style: bold;
+    margin-left: 0px;
+}
+
+input {
+    font-size: 5px;
+}
